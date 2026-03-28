@@ -17,13 +17,13 @@ const appConfig = {
     "cdn_url": `${HOST}/cdn/`,
     "is_maintenance": false,
     "news": [
-        {"id": 1, "title": "Новый бэкенд!", "text": "Добро пожаловать в игру.", "image": `${HOST}/cdn/news1.png`, "url": "https://vk.com/br_dev"}
+        {"id": 1, "title": "Новый бэкенд!", "text": "Добро пожаловать в игру.", "image": `${HOST}/cdn/news1.png`, "url": "https://vk.com/LEERPR"}
     ]
 };
 
 const servers = [
-    {"id": 1, "name": "RED", "ip": "127.0.0.1", "port": 7777, "online": 100, "max_online": 1000, "color": "#FF0000"},
-    {"id": 2, "name": "GREEN", "ip": "127.0.0.1", "port": 7778, "online": 50, "max_online": 1000, "color": "#00FF00"}
+    {"id": 1, "name": "RED", "ip": "188.127.241.74", "port": 2221, "online": 100, "max_online": 1000, "color": "#FF0000"},
+    {"id": 2, "name": "GREEN", "ip": "188.127.241.74", "port": 2221, "online": 50, "max_online": 1000, "color": "#00FF00"}
 ];
 
 const vehicles = [
